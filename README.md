@@ -1,1 +1,1 @@
-# Sales_Performance-Using-SQL
+Walmart, a major retail chain, operates across several cities, offering a wide range of products. The dataset provided contains detailed transaction data, including customer demographics, product lines, sales figures, and payment methods. This project uses advanced SQL techniques to uncover actionable insights into sales performance, customer behavior, and operational efficiencies.
